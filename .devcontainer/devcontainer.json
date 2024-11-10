@@ -4,5 +4,5 @@
         "dockerfile": "Dockerfile" 
     }, 
     "service": "mysql", 
-    "workspaceFolder": "/"
+    "workspaceFolder": "/workspaces"
 }

@@ -1,0 +1,8 @@
+{ 
+    "name": "MySQL Codespace", 
+    "build": { 
+        "dockerfile": "Dockerfile" 
+    }, 
+    "service": "mysql", 
+    "workspaceFolder": "/"
+}

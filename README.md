@@ -1,8 +1,8 @@
-## arm_project
+# arm_project
 ARM Projekt HS24 
-# Topic: 
+## Topic: 
 
-# Project evaluation (max. 16 points)
+## Project evaluation (max. 16 points)
 Minimum requirements (8 points):
 
 The project must be a Data Analysis project, i.e., must include content of the quantitative part of the ARM module.
@@ -25,7 +25,7 @@ The project must be a Data Analysis project, i.e., must include content of the q
 
 (8) Making the material (data, Jupyter notebooks, ...) available on Moodle.
 
-# Additional points, if the following criteria are met (max 5 points):
+## Additional points, if the following criteria are met (max 5 points):
 
 (1) Creativity of implementation (creative is anything not specified in the lessons and exercises).
 
@@ -37,7 +37,7 @@ The project must be a Data Analysis project, i.e., must include content of the q
 
 (5) Use of more than one model for predictions (e.g. a multiple linear regression & a random forest)
 
-# Project presentation in the form of a video-recording (max. 3 points).
+## Project presentation in the form of a video-recording (max. 3 points).
 
 To be evaluated:
 
@@ -53,7 +53,7 @@ To be evaluated:
 
 (6) Time keeping: length of presentation in minutes = number of students per group x 5 minutes.
 
-# Notes: 
+### Notes: 
 
 --> Use the slide set as the basis for the presentation.
 
@@ -61,7 +61,7 @@ To be evaluated:
 
 --> Do not just scroll through the code in the Jupyter notebooks without explaining the code and results.
 
-# To be submitted on Moodle with the group number by each student:
+## To be submitted on Moodle with the group number by each student:
 
 1.) Video recording of the project presentation as mp4 file, e.g.: 'video_recording_group_01.mp4'.
 
